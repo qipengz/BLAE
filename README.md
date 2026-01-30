@@ -41,7 +41,7 @@ BLAE/
 ├── data/
 │   ├── data_class.py          # Dataset loaders
 ├── models/
-│   ├── autoencoders.py        # BLAE and baseline models
+│   ├── autoencoders.py        # Autoencoder models
 │   ├── coders.py              # Encoder/decoder architectures
 ├── trainers/
 │   ├── trainers.py            # Training loops
